@@ -1,0 +1,10 @@
+// Syntax - console.count('label')
+
+console.count('a')
+console.count('b')
+console.count('c')
+console.count('a')
+console.count()
+console.count('a')
+console.count('b')
+console.count()
